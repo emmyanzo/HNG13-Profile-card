@@ -5,10 +5,6 @@ Every visible element includes `data-testid` attributes for automated testing.
 
 
 
- Live Demo
-[🔗 View Live Project](https://your-live-link.netlify.app)  
-[💻 GitHub Repository](https://github.com/yourusername/profile-card)
-
 
 
 Task Overview
